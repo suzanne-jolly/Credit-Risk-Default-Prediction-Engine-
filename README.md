@@ -14,7 +14,7 @@ This repository contains an end-to-end machine learning pipeline designed to pre
 * `requirements.txt`: List of dependencies required to run the environment.
 
 ## Quick Start
-1. Clone the repository: `git clone https://github.com/suzanne-jolly/Credit-Risk-Default-Prediction-Engine-`
+1. Clone the repository: `git clone https://github.com/suzanne-jolly/Credit-Risk-Default-Prediction-Engine-.git`
 2. Install dependencies: `pip install -r requirements.txt`
 3. Download the dataset [`Credit_default_dataset.csv`] and place it in the root directory.
 4. Run the Jupyter Notebook.
