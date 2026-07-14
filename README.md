@@ -10,11 +10,11 @@ This repository contains an end-to-end machine learning pipeline designed to pre
 * **Interpretability:** Integrated **SHAP** (SHapley Additive exPlanations) for comprehensive feature attribution, ensuring both global and local model interpretability for automated risk assessment.
 
 ## Repository Structure
-* `Credit_Risk_Assessment.ipynb`: The main Google Colab notebook containing EDA, feature engineering, model training, and SHAP visualizations.
+* `Credit_Card_Risk_Assessment.ipynb`: The main Google Colab notebook containing EDA, feature engineering, model training, and SHAP visualizations.
 * `requirements.txt`: List of dependencies required to run the environment.
 
 ## Quick Start
 1. Clone the repository: `git clone https://github.com/suzanne-jolly/Credit-Risk-Default-Prediction-Engine-`
 2. Install dependencies: `pip install -r requirements.txt`
-3. Download the dataset [Credit_default_dataset.csv] and place it in the root directory.
+3. Download the dataset [`Credit_default_dataset.csv`] and place it in the root directory.
 4. Run the Jupyter Notebook.
